@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import "~bootstrap/dist/css/bootstrap.css"; */
+ @import url('https://fonts.googleapis.com/css?family=Muli:400,700'); 
+
+/* body{ padding: 20px; } */
+
+body{
+	background:#e8e8e8;
+	font-family:'Muli';
+}
+
+ 
+/* for form builder
+.form-control.ng-touched.ng-invalid{
+	border: 2px solid red;
+} */
